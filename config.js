@@ -22,9 +22,9 @@ global.APIKeys = {
 // Other
 global.owner = ['6281212236166','6283143716737']
 global.ownernomer = "6283143716737"
-global.premium = ['6281212236166','6283143716737']
+global.premium = ['6283143716737']
 global.packname = 'STICKER BY'
-global.author = 'BJORTAK'
+global.author = 'Z3R0'
 global.sessionName = 'data'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
